@@ -1,6 +1,6 @@
 ##### Step1:
 
-doing minor changes
+doing minor changes. This is just for testing to reset after commit.
 
 Install latest Node.js version based on your OS
 
